@@ -1,9 +1,9 @@
 # AOKI Market
 Your Telegram-based Marketplace consist of these components:
-- [AOKI Market Web App](https://github.com/Niveladov/MarketWebApp.git)
-- [AOKI Seller Bot](https://github.com/MatthewProk/market_app_admin.git)
 - [AOKI Market API](https://github.com/Niveladov/MarketAppApi.git)
-- [AOKI Seller App](https://github.com/Niveladov/SellerWebApp.git)
+- [AOKI Seller Bot](https://github.com/MatthewProk/market_app_admin.git)
+- [AOKI Market Web App](https://github.com/Niveladov/MarketWebApp.git)
+- [AOKI Seller Web App](https://github.com/Niveladov/SellerWebApp.git)
 
   
 ## Overview
@@ -28,7 +28,7 @@ Open it here: [AOKI Market API](https://github.com/Niveladov/MarketAppApi.git).
 A robust backend API that supports the AOKI Market ecosystem, providing developers and third-party applications with access to market data and functionalities. This API ensures that all components of the AOKI platform communicate effectively, maintaining data integrity and operational efficiency.
 
 ### AOKI Seller Web App 
-Open it here: [AOKI Seller App](https://github.com/Niveladov/SellerWebApp.git).
+Open it here: [AOKI Seller Web App](https://github.com/Niveladov/SellerWebApp.git).
 
 The TMA provides a web interface that enables sellers to effortlessly manage and edit their product listings. With this intuitive platform, sellers can also directly post their products to their designated Telegram channels, enhancing visibility and simplifying the process of reaching customers. This tool streamlines product management and leverages the power of social commerce through Telegram.
 
