@@ -1,13 +1,16 @@
 # AOKI Market
-Your Telegram-based Marketplace
+Your Telegram-based Marketplace consist of these components:
+- [AOKI Market Web App](https://github.com/Niveladov/MarketWebApp.git)
+- [AOKI Seller Bot](https://github.com/MatthewProk/market_app_admin.git)
+- [AOKI Market API](https://github.com/Niveladov/MarketAppApi.git)
+- [AOKI Seller App](https://github.com/Niveladov/SellerWebApp.git)
 
+  
 ## Overview
 
 Welcome to the AOKI Market , a comprehensive ecosystem designed to revolutionize the way goods are bought and sold on Telegram. This platform consists of four interconnected components that work seamlessly together to provide a complete selling and buying experience. Whether you're a seller looking to expand your reach or a buyer seeking convenience and variety, the AOKI Market brings the marketplace to your fingertips.
 
 ## Components
-
-The AOKI Market includes the following components:
 
 ### AOKI Market Web App
 Open it here: [AOKI Market Web App](https://github.com/Niveladov/MarketWebApp.git).
